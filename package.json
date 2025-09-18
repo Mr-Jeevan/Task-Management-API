@@ -1,0 +1,23 @@
+{
+  "name": "taskmgmtapi",
+  "version": "1.0.0",
+  "description": "Task Management API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Jeevan/Task-Management-API.git"
+  },
+  "author": "Mr-Jeevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Jeevan/Task-Management-API/issues"
+  },
+  "homepage": "https://github.com/Mr-Jeevan/Task-Management-API#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
